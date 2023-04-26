@@ -1,7 +1,7 @@
 {
-    "name": "discord-bot-notion",
+    "name": "discord-bot-badges",
     "version": "0.5.0",
-    "description": "A simple Discord bot that publishes tasks on Notion",
+    "description": "A simple Discord that creates and award badges on NOSTR",
     "author": "La Crypta",
     "license": "UNLICENSED",
     "main": "./dist/index.js",
