@@ -3,7 +3,7 @@
     "version": "0.5.0",
     "description": "A simple Discord bot that publishes tasks on Notion",
     "author": "La Crypta",
-    "license": "Proprietary",
+    "license": "UNLICENSED",
     "main": "./dist/index.js",
     "scripts": {
         "dev": "tsnd --respawn ./src/index.ts",
